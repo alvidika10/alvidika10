@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alvidika10
-- 👀 I’m interested in Python, Image Processing, and Machine Learning
+- 👀 I’m interested in Python automation, Image Processing, and Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on python project
 - 📫 How to reach me just follow my github

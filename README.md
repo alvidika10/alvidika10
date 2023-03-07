@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alvidika10
+- 👋 Hi, I’m Reynalvi Yurandhika
 - 👀 I’m interested in Python automation, Image Processing, and Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on python project
